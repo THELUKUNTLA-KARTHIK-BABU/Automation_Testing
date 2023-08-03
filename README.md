@@ -1,1 +1,1 @@
-# Automation_Testing
+This project uses Selenium WebDriver and Python to automate tests on "The Sparks Foundation Singapore" website, ensuring the correctness of its navigation, logo display, footer link, name, icons, and functionality. The automated tests validate critical elements like the "Student Mentorship Program" option and the submit button on the respective pages, contributing to the website's overall quality assurance and performance.
